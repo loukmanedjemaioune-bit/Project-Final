@@ -1,6 +1,6 @@
 # 🚗 DVLD – Driving License Management System
 
-## 📌 Project Overview
+##  Project Overview
 DVLD (Driving & Vehicle License Department) is a desktop management system that simulates a real-world government driving license administration workflow.
 
 The system manages people, users, applications, tests, licenses, and drivers using a clean **3-Tier Architecture** with a structured SQL database.
